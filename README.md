@@ -1,5 +1,14 @@
 # Skill_Normalization
 
+# Content
+- [Application Description](#Application-Description)
+- [Technology Used](#Technology-Used)
+- [Business model](#Business-model)
+- [Methodology](#Methodology)
+- [Input](#Input)
+- [Output](#Output)
+- [Example](#Example)
+- [Postman API](#Postman-API)
 
 # Application description
 
