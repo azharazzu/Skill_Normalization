@@ -50,3 +50,8 @@
 
 
 # Postman Api
+Postman URl: http://127.0.0.1:5000/skill_norm
+![image](https://user-images.githubusercontent.com/101692969/234567578-64b357e9-bd4b-45e9-b56e-9f09a6732b72.png)
+![image](https://user-images.githubusercontent.com/101692969/234567957-44c00310-bbf7-49d0-8f69-fe6f13060791.png)
+
+
